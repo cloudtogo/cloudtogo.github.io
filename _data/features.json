@@ -1,7 +1,7 @@
 [
   {
-    "title": "Containerized kubelet",
-    "description": "Containerized kubelet for embedded Linux",
+    "title": "Multiarch",
+    "description": "amd64, arm64, arm32/v7 and more",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Containerized wireguard",
-    "description": "Multi-arch WireGuard images for embedded Linux",
+    "title": "Fully Self-dependent",
+    "description": "All binary dependencies are in its own images",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Containerized wireguard",
-    "description": "Multi-arch WireGuard images for embedded Linux",
+    "title": "Tiny",
+    "description": "The smallest image is only 74MB after extracting.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -27,8 +27,8 @@
     }
   },
   {
-    "title": "Containerized wireguard",
-    "description": "Multi-arch WireGuard images for embedded Linux",
+    "title": "Optimal layer structure",
+    "description": "All images are in a base image hierarchy",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -36,8 +36,8 @@
     }
   },
   {
-    "title": "Containerized wireguard",
-    "description": "Multi-arch WireGuard images for embedded Linux",
+    "title": "Highly parallel building",
+    "description": "",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -45,8 +45,8 @@
     }
   },
   {
-    "title": "Containerized udp2raw-tunnel",
-    "description": "Multi-arch Images for udp2raw-tunnel",
+    "title": "Automation",
+    "description": "",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

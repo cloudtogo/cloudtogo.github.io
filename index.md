@@ -10,4 +10,4 @@ show_call_box: true
 
 # Containerized Kubelet
 
-This project aims to build multi-arch kubelet images and help get rid of dependencies to the local filesystem, especially for custom or embedded Linux distros.
+Multi-arch kubelet images for custom or embedded Linux distros and help get rid of dependencies to the node filesystem.
