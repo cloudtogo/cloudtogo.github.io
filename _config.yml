@@ -1,5 +1,5 @@
-domain: cloudtogo.github.io
-url: https://cloudtogo.github.io
+domain: edge.cloudtogo.cn
+url: https://edge.cloudtogo.cn
 baseurl: '/'
 permalink: pretty
 title: 'CloudToGo Edge'
@@ -14,8 +14,6 @@ logo:
 
 collections:
   services:
-    output: true
-  team:
     output: true
 
 defaults:
