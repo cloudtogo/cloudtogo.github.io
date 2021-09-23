@@ -1,7 +1,8 @@
 ---
 title: CloudToGo Edge
+meta_title: containerized kubelet
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Multi-arch kubelet images for custom or embedded Linux distros and help get rid of dependencies to the node filesystem.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
