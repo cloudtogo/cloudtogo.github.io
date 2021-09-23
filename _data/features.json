@@ -10,7 +10,7 @@
   },
   {
     "title": "Fully Self-dependent",
-    "description": "All binary dependencies are in its own images",
+    "description": "All binary dependencies are in the images.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -21,14 +21,14 @@
     "title": "Tiny",
     "description": "The smallest image is only 74MB after extracting.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
   },
   {
     "title": "Optimal layer structure",
-    "description": "All images are in a base image hierarchy",
+    "description": "All images are in the same base image hierarchy.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -36,19 +36,19 @@
     }
   },
   {
-    "title": "Highly parallel building",
-    "description": "",
+    "title": "Available on any Linux",
+    "description": "It works on any Linux with container runtime.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
   },
   {
     "title": "Automation",
-    "description": "",
+    "description": "Images are automatically built after new upstream release found.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
       "height": 80
     }

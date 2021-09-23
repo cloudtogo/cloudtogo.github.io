@@ -5,6 +5,8 @@ featured: true
 weight: 2
 ---
 
+Multi-arch WireGuard images for embedded Linux on amd64, arm64v8 and arm32v7.
+
 
 This project provides a wireguard image that contains the userspace wireguard implementation, `wireguard-go`, wireguard utilites `wg` and `wg-quick`.
 In particular, its image size is less than `10MB` and can work on embedded Linux distros no matter whether the wireguard kernel driver is installed.
@@ -32,3 +34,4 @@ The usage is quite easy that needs only 4 steps,
 
 If you already have a Kubernetes cluster, feel free to test with the manifest `hack/manifests.yaml`.
 
+[More](https://github.com/cloudtogo/containerized-wireguard)
