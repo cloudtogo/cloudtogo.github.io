@@ -1,3 +1,5 @@
+domain: cloudtogo.github.io
+url: https://cloudtogo.github.io
 baseurl: '/'
 permalink: pretty
 title: 'CloudToGo Edge'
